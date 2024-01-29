@@ -1,0 +1,1 @@
+selenium openpyxl bs4 spacy g4f
