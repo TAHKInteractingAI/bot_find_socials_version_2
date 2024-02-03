@@ -1,0 +1,17 @@
+lz4-4.3.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+lz4-4.3.3.dist-info/LICENSE,sha256=p9ZdHdTcyG3KXRfUaqShx3ZpybcvVfKY6eIhLykFwM8,1523
+lz4-4.3.3.dist-info/METADATA,sha256=YS49Q5Tf3KPpPHT_AqvAEnVyefe6h52HW-5Y9kOkX_4,3758
+lz4-4.3.3.dist-info/RECORD,,
+lz4-4.3.3.dist-info/WHEEL,sha256=3SeyPJ5-Us2Ct5GSftUVKtLSlm-bNefW4m5qd0GLzww,100
+lz4-4.3.3.dist-info/top_level.txt,sha256=cX6_gxFUdNSo40TfxrGpTCgu7epGm3yW3m2k7irTDzI,4
+lz4/__init__.py,sha256=e_8j-K4TJx38qcPNjoZP_pNDo8IpE4D2ZWl4p50iV_8,646
+lz4/__pycache__/__init__.cpython-38.pyc,,
+lz4/__pycache__/version.cpython-38.pyc,,
+lz4/_version.cp38-win_amd64.pyd,sha256=y-HBF5L4ynkK-9G7pC1vxeuf2Bb7h0RYKEUZvsozsRQ,11264
+lz4/block/__init__.py,sha256=DSUbS7zMlKKeLs8JO9riOBO5Q_lVoSB-nwgjfhBeXt0,71
+lz4/block/__pycache__/__init__.cpython-38.pyc,,
+lz4/block/_block.cp38-win_amd64.pyd,sha256=EyPh2D4hQ-tNmVmyakvvYItkv461NNHLzWzmtlOdl7k,76800
+lz4/frame/__init__.py,sha256=ZnJ4sJ1HStPpmJpo0q_CGm9fDEui3Tt3V8DmMi68SZM,32025
+lz4/frame/__pycache__/__init__.cpython-38.pyc,,
+lz4/frame/_frame.cp38-win_amd64.pyd,sha256=il2S3fjLtrE9oeDX3XOeF05NKMtlqli7HH0hCpA93X0,115200
+lz4/version.py,sha256=Ape9hKorNbsXoRN8UUYha-Qr3lKx__LZXfqYMK8m8GA,427
